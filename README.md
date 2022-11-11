@@ -4,7 +4,7 @@
 | ------ | ------- |        
 | Python: começando com a linguagem | OK |
 | Python: avançando na linguagem | OK |
-| Python: entendendo a Orientação a Objetos |  |
+| Python: entendendo a Orientação a Objetos | OK |
 | Python: avançando na orientação a objetos |  |
 | Python: collections parte 1: listas e tuplas |  |
 | Python: collections parte 2: conjuntos e dicionários |  |
